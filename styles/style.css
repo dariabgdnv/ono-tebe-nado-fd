@@ -152,8 +152,7 @@ body {
 
 .lot_title {
     padding-bottom: 39px;
-    padding-left: 40px;
-    /*Не получается заголовок подогнать под Perfect Pixel */
+    padding-left: 59px;
 }
 
 .lots__card-list {
@@ -222,10 +221,6 @@ article {
     position: relative;
     z-index: 2;
     justify-items: end;
-}
-
-.lot_title {
-    padding-left: 64px;
 }
 
 .card-link {
